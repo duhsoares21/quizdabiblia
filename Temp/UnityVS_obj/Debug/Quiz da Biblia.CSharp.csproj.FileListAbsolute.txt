@@ -1,0 +1,21 @@
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\Mono.Cecil.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\Mono.Cecil.xml
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.xml
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_obj\Debug\Quiz da Biblia.CSharp.csprojResolveAssemblyReference.cache
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\pladoo\games\Quiz da Biblia\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
